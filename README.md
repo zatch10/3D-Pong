@@ -1,5 +1,6 @@
 # 3D-Pong
 An Arcade game created using System Verilog
+
 To start the game:
 1) Simply run compilation
 2) Program onto FPGA
